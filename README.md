@@ -1,1 +1,1 @@
-# Django_rest
+# Django_REST_framework_GB
